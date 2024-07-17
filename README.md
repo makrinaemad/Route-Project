@@ -1,8 +1,8 @@
 # route_project
 
 
-![Home Page](https://github.com/makrinaemad/Route_Task/blob/master/Screenshot_20240717_204836.png)
-![Home Page](https://github.com/makrinaemad/Route_Task/blob/master/Screenshot_20240717_204853.png)
+![Home Page](https://github.com/makrinaemad/Route-Project/blob/master/page1.png)
+![Home Page](https://github.com/makrinaemad/Route-Project/blob/master/page2.png)
 =======
 
 
