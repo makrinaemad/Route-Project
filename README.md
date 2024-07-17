@@ -1,10 +1,8 @@
 # route_project
 
-<<<<<<< HEAD
-![Home Page](pqge1.png)
-![Home Page](pqge2.png)
+
+![Home Page](https://github.com/makrinaemad/Route_Task/blob/master/Screenshot_20240717_204836.png)
+![Home Page](https://github.com/makrinaemad/Route_Task/blob/master/Screenshot_20240717_204853.png)
 =======
-A new Flutter project.
 
 
->>>>>>> 6c9cdf2a9c02b8ee0c0e25570ca893ece1664e1b
